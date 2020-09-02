@@ -1,10 +1,7 @@
 package labexe6;
 
 import java.util.Scanner;
-/**
- *
- * @author ELCOT
- */
+
 public class interfacepgm {
     public static void main(String[] args)
     {
